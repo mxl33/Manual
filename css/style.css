@@ -59,6 +59,10 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 400;
 }
 
+:focus {
+  outline: none;
+}
+
 .header .menu__link {
   display: inline-block;
   font-size: 1.2rem;
